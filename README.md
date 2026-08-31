@@ -2,7 +2,8 @@
 使用h5实现的web版PS
 
 # 使用
-在线访问：<https://lxj5820.github.io/PS/>
+在线访问：<https://Photoshop.netlify.app/>
+站点静态资源托管于 Netlify，推送 `main` 分支后会自动构建部署。
 
 # 说明
 本项目源自稿定设计部署的在线 PS 页面（Photopea 内核，原地址 <https://ps.gaoding.com>），
