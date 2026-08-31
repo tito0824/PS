@@ -43,7 +43,6 @@ jobs:
           # 复制网站必要文件到部署目录
           cp index.html deploy/
           cp README.md deploy/
-          cp CNAME deploy/
           cp sitemap.xml deploy/
           cp favicon.ico deploy/
           cp -r css deploy/
